@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+
+body {
+    font-family: 'Open Sans';
+    color: #111;
+}
+
+.top-bar {
+    height: 50px;
+    background-color: #333;
+}
+
+.qual {
+    font-family: 'Open Sans Bold';
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.div-laranja {
+    background-color: #fd8a24;
+    height: 5px;
+}
+
+.inicio {
+    width: 1000px;
+    margin: auto;
+}
+
+.viloes {
+    font-family: 'Open Sans Bold';
+    font-size: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.ele {
+    color: #555;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.dia {
+    font-size: 9px;
+    color: rgba(85, 85, 85, 0.555);
+}
+
+.redes {
+    margin-top: 30px;
+    width: 30px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+}
+
+.assunto {
+    width: 700px;
+    margin: auto;
+    color: #555;
+}
+
+.ppp {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.utitu {
+    margin-bottom: 30px;
+    color: #fd8a24;
+    font-family: 'Open Sans Bold';
+    font-size: 20px;
+}
+span{
+    color: #555;
+    font-family: 'Open Sans';
+}
+a{
+    text-decoration: none;
+    color: #fd8a24;
+}
+.moedas,
+.geladeira {
+    width: 700px;
+}
+
+figcaption {
+    font-size: 12px;
+    color: rgba(85, 85, 85, 0.705);
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.stitu {
+    color: #fd8a24;
+    font-family: 'Open Sans Bold';
+    font-size: 20px;
+    display: inline;
+}
+
+.veja {
+    font-size: 20px;
+}
+
+.gela {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans Bold';
+    color: #111;
+}
+
+.geladeira {
+    margin-top: 30px;
+}
+
+.rodape {
+    height: 50px;
+    background-color: #333;
+    margin-top: 100px;
+}
+
+@media screen and (max-width:1000px) {
+    .qual {
+        font-size: 4vw;
+        padding: 12px;
+    }
+
+    .inicio,
+    .assunto {
+        width: 350px;
+        margin: 0;
+        padding: 11px;
+        text-align: justify;
+    }
+
+    .viloes {
+        font-size: 6vw;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .tech {
+        font-size: 3vw;
+    }
+
+    .ele {
+        font-size: 4vw;
+        margin-bottom: 10px;
+    }
+
+    .redes {
+        margin-top: 20px;
+        width: 7vw;
+        margin-bottom: 20px;
+    }
+
+    .ppp {
+        font-size: 4vw;
+        margin-top: 30px;
+    }
+
+    .pp2 {
+        margin-top: 0px;
+    }
+
+    .utitu,
+    .stitu,
+    .veja {
+        font-size: 4vw;
+    }
+
+    .moedas,
+    .geladeira {
+        width: 350px;
+    }
+
+    figcaption {
+        font-size: 3vw;
+        margin-bottom: 20px;
+    }
+
+    .gela {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 7vw;
+    }
+}
