@@ -15,10 +15,10 @@
     Capturas De Tela:
 </h2>
 <h3>Desktop</h3>
-<img width="700px" src="./images/desktop.png" alt="img-conteudo-desktop">
+<img width="700px" src="./img/desktop.png" alt="img-conteudo-desktop">
 
 <h3>Mobile</h3>
-<img width="300px" src="./images/mobile.png" alt="img-conteudo-mobile">
+<img width="300px" src="./img/mobile.png" alt="img-conteudo-mobile">
 <h4>
     Obrigado pela visualização do meu projeto. <br>
     Estou sempre disposto a sugestões de melhorias!! <br><br>
