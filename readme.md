@@ -1,5 +1,5 @@
 <h1>
-    Página De Conteúdo - <a href="https://jrmartinsg.github.io/pagina-de-conteudo/" target="_blank">Clique e veja o
+    Página De Conteúdo - <a href="https://pagina-de-conteudo.vercel.app/" target="_blank">Clique e veja o
         Projeto Online</a>
 </h1>
 <p>
@@ -22,5 +22,5 @@
 <h4>
     Obrigado pela visualização do meu projeto. <br>
     Estou sempre disposto a sugestões de melhorias!! <br><br>
-    <a href="https://jrmartinsg.github.io/pagina-de-conteudo/" target="_blank">Clique e veja o Projeto Online</a>
+    <a href="https://pagina-de-conteudo.vercel.app/" target="_blank">Clique e veja o Projeto Online</a>
 </h4>
